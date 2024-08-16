@@ -1,0 +1,12 @@
+{
+    "tests": [
+      {
+        "name": "Testing tests",
+        "setup": "",
+        "run": "HOME='/home/runner' lake test -- test1",
+        "input" : "",
+        "timeout": 100,
+        "points": 5
+      }
+    ]
+  }
