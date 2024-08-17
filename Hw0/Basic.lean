@@ -16,4 +16,4 @@ def hi := "Hello, Math 587"
 theorem hello_length : hi.length = 15 := rfl
 
 -- Fill this in to fix the test
-def hello : String := hi
+def hello : String := sorry
