@@ -27,17 +27,16 @@ will open up the pdf in a separate tab/window.
 (You may need to click the Restart File button on the lower right corner of infoview to get
 Lean to talk to you.)
 - Hover over the `#eval` line and note the output in the infoview pane.
-- Send me your GitHub username and the message from `#eval`.
 - Enter `lake test` in the program in the terminal pane.
 
 <p align="center">
   <img src="images/terminal.png">
 </p>
 
-- Poke around to try to make the test pass.
+- Poke around to try to make the test pass. If you can correct `#eval`, do so and send the output to me also.
 
 - When you are satisfied, stop your Codespace. On Windows/Linux enter Control-Shift-P `⌃ + ⇧ + P'
 or on MacOS Command-Shift-P `⌘ + ⇧ + P` and select `Codespaces:  Stop Current Codespace`. If
 you don't see it in the search bar that pops up, start typing it and it show up.
 
-Note that only things I expect to receive from you is your GitHub username, the `#eval` output, and any complaints :)
+Note that only things I expect to receive from you is your GitHub username (optionally working `#eval` output) and any complaints :)
