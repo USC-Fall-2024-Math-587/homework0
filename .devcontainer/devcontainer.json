@@ -12,6 +12,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
+	"postCreateCommand": "apt-get update && apt-get install -y texlive-latex-recommended",
 	// "postCreateCommand": "pip3 install --user -r requirements.txt",
 
 	// Configure tool-specific properties.
@@ -28,7 +29,7 @@
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
 				"James-Yu.latex-workshop", 	    // LaTeX extension
-				"leanprover.lean4"                  // lean 3 extension
+				"leanprover.lean4"                  // Lean 4 extension
 			]
 		}
 	},
