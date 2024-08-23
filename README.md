@@ -14,8 +14,8 @@ familiarize you with tools used in this course.
   <img src="images/side_bar.png">
 </p>
 
-- Click on the TeX icon > View Latex PDF > View in web browser and then click through the popup. This
-will open up the pdf in a separate tab/window.
+- Click on the TeX icon > View Latex PDF > View in VS Code Tab. This
+will open up the pdf in a separate tab in VS Code.
 
 <p align="center">
   <img src="images/pdf_viewer.png">
