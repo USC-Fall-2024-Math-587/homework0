@@ -12,7 +12,7 @@
 	// "forwardPorts": [],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	"postCreateCommand": "apt-get update && apt-get install -y texlive-latex-recommended",
+	"postCreateCommand": "sudo apt-get update && sudo apt-get install -y texlive-latex-recommended",
 	// "postCreateCommand": "pip3 install --user -r requirements.txt",
 
 	// Configure tool-specific properties.
